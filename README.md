@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ npm install passport-linkedin-token-v2
+$ npm install enouvo-passport-linkedin-token-v2
 ```
 
 ## Usage
