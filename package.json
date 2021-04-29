@@ -1,6 +1,6 @@
 {
   "name": "enouvo-passport-linkedin-token-v2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Passport strategy for authenticating with LinkedIn OAuth2 tokens. It works for lite profile and email addresses.",
   "main": "index.js",
   "directories": {
@@ -22,7 +22,7 @@
   "author": "Nithin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nithinkashyapn/passport-linkedin-token-v2/issues"
+    "url": "https://github.com/hoangenouvo/passport-linkedin-token-v2/issues"
   },
-  "homepage": "https://github.com/nithinkashyapn/passport-linkedin-token-v2#readme"
+  "homepage": "https://github.com/hoangenouvo/passport-linkedin-token-v2#readme"
 }
